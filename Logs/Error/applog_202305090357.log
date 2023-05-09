@@ -1,0 +1,3 @@
+2023-05-09 03:57:21.664 -07:00,[Debug],[csharp_crud_api.Controllers.WeatherForecastController],[],Inside GetWeatherForecast endpoint,
+,2023-05-09 03:57:21.975 -07:00,[Debug],[csharp_crud_api.Controllers.WeatherForecastController],[],The response for the get weather forecast is[{"Date":"2023-05-10","TemperatureC":53,"TemperatureF":127,"Summary":"Bracing"},{"Date":"2023-05-11","TemperatureC":51,"TemperatureF":123,"Summary":"Balmy"},{"Date":"2023-05-12","TemperatureC":29,"TemperatureF":84,"Summary":"Freezing"},{"Date":"2023-05-13","TemperatureC":-13,"TemperatureF":9,"Summary":"Hot"},{"Date":"2023-05-14","TemperatureC":-15,"TemperatureF":6,"Summary":"Hot"}],
+,
